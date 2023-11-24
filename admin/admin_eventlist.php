@@ -146,7 +146,7 @@
                 }
 
               
-                function displayEventListDESC(searchValue) { //for DESC
+                function displayEventListDESCa(searchValue) { //for DESC
                     $.ajax({
                         url: "../ajax/admin_ajax.php",
                         type: 'post',
